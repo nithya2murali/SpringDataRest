@@ -9,5 +9,5 @@ public interface AlienRepo extends JpaRepository<Alien,Integer>
 //first comiit
 //change to branch
 {
-
+int i=10;
 }
